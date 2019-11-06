@@ -31,3 +31,5 @@ Microsoft and any contributors reserve all others rights, whether under their re
 or trademarks, whether by implication, estoppel or otherwise.
 
 Text to trigger a new build
+
+[![Build Status](https://dev.azure.com/humbertolozano/GalvanizeCND/_apis/build/status/hlozanor.pipelines-java?branchName=master)](https://dev.azure.com/humbertolozano/GalvanizeCND/_build/latest?definitionId=1&branchName=master)
